@@ -6,4 +6,4 @@ let myFavoriteTom = (tom + " " + secondTom);
 let mySecondFavoriteTom = (tom + " " + firstTom);
 
 console.log(myFavoriteTom);
-console.log(mySecondFavoriteTom);
+console.log(mySecondFavoriteTom); 
